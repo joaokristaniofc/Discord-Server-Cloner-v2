@@ -1,4 +1,4 @@
-# Discord Server Cloner 2x
+# Discord Server Cloner V2 Forked
 
 *Support the project by leaving a :star:*
 
